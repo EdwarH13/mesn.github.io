@@ -10,7 +10,7 @@
 # Installation
 Follow these steps to set up and run the project:
 
-# Clone the Repository:
+Clone the Repository:
 - bash
 - Copy code
 - git clone (https://github.com/EdwarH13/mesn.github.io.git)

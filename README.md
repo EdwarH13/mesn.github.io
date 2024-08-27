@@ -1,5 +1,5 @@
-###Ruby-Based Clustering of Pre-trained Language Model (PLM) for Low-Resource Programming Languages
-This project explores using Ruby, a low-resource programming language, for text clustering using pre-trained language models (PLMs) like BERT.
+#Ruby-Based Clustering of Pre-trained Language Model (PLM) for Low-Resource Programming Languages
+This project explores using Ruby, a low-resource programming language, for text clustering using pre-trained language models (PLMs) like BERT.#
 
 Technologies Used
 Ruby: The primary programming language used for this project.

@@ -3,9 +3,9 @@
 # Technologies Used
 - Python: The primary programming language used for this project.
 - BERT (Bidirectional Encoder Representations from Transformers): A pre-trained language model used for generating sentence embeddings.
-- KMeans Clusterer: Ruby library used to cluster sentences based on their embeddings.
-- Tokenizer: Ruby library used for tokenizing sentences into words.
-- FileUtils: Ruby module used for handling file operations.
+- KMeans Clusterer: Python library used to cluster sentences based on their embeddings.
+- Tokenizer: Python library used for tokenizing sentences into words.
+- FileUtils: Python module used for handling file operations.
   
 # Installation
 Follow these steps to set up and run the project:
@@ -14,7 +14,7 @@ Clone the Repository:
 - bash
 - Copy code
 - git clone (https://github.com/EdwarH13/mesn.github.io.git)
-- cd ruby-plm-clustering
+- cd ambigutyCode
   
 # Prepare Necessary Files:
 Create a stopwords.txt file containing common stopwords (one per line).
